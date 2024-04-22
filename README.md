@@ -25,7 +25,7 @@ Nessa versão fiz alterações do exercicio anterior que foi de tabelas <a href=
  <img src="./src/img/site.jpg">
 
 Você pode conferir o resultado do projeto
- <a href="https://kathllynsantos.github.io/Site_P14_Kick/"> aqui!</a>
+ <a href="https://site-p14-kick.vercel.app/"> aqui!</a>
 
  <h2>🛠️ Como Testar</h2>
 <ol>
